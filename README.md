@@ -1,2 +1,2 @@
 # mvvm-retrofit-room
-Android, MVVM, Live data, Room, Retrofit, Pagination
+Android, MVVM, Rx Java, Live data, Room, Retrofit, Pagination
